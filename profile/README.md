@@ -4,6 +4,22 @@ Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is int
 
 ## Useful Resources
 
+### Network Medicine Platform
+
+If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases and toxicants, predict drug targets and biomarkers, and develop novel therapeutic strategies, please visit our [Network Medicine Platform](https://drugs.3steps.cn/).
+
+![Network Medicine Platform](./assets/biomedgps.png)
+
+### Knowledge Graph & Deep Learning Models
+
+If you are interested in constructing knowledge graph and deep learning models, please visit our [Knowledge Graph & Deep Learning Models](https://github.com/OpenProphetDB/biomedgps-data) repository.
+
+### Labeling Tool
+
+If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/).
+
+![Labeling Tool](./assets/labeling-tool.png)
+
 <!--
 
 **Here are some ideas to get you started:**
