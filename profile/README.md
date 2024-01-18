@@ -18,7 +18,7 @@ If you are interested in constructing knowledge graph and deep learning models, 
 
 If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/).
 
-![Labeling Tool](./profile/assets/labeling-tool.png)
+<a href="https://prophet-studio.3steps.cn/" target="_blank"><img src="./profile/assets/labeling-tool.png"/></a>
 
 <!--
 
