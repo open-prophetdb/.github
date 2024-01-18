@@ -12,7 +12,7 @@ If you are interested in using knowledge graph and deep learning models to under
 
 ### Knowledge Graph & Deep Learning Models
 
-If you are interested in constructing knowledge graph and deep learning models, please visit the [biomedgps-data](https://github.com/OpenProphetDB/biomedgps-data) repository or the [website](https://open-prophetdb.github.io/biomedgps-data/).
+If you are interested in constructing knowledge graph and deep learning models, please visit the [biomedgps-data](https://github.com/open-prophetdb/biomedgps-data) repository or the [website](https://open-prophetdb.github.io/biomedgps-data/).
 
 ### Labeling Tool
 
