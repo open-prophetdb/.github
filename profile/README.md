@@ -8,7 +8,7 @@ Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is int
 
 If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases and toxicants, predict drug targets and biomarkers, and develop novel therapeutic strategies, please visit our [Network Medicine Platform](https://drugs.3steps.cn/).
 
-![Network Medicine Platform](./profile/assets/biomedgps.png)
+<a href="https://drugs.3steps.cn/" target="_blank"><img src="./profile/assets/biomedgps.png" width="400" height="400" /></a>
 
 ### Knowledge Graph & Deep Learning Models
 
