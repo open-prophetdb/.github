@@ -6,17 +6,17 @@ Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is int
 
 ### Network Medicine Platform
 
-If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases and toxicants, predict drug targets and biomarkers, and develop novel therapeutic strategies, please visit our [Network Medicine Platform](https://drugs.3steps.cn/).
+If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases and toxicants, predict drug targets and biomarkers, and develop novel therapeutic strategies, please visit our [Network Medicine Platform](https://drugs.3steps.cn/) to get started or the [biomedgps](https://github.com/open-prophetdb/biomedgps) repository to install the platform locally.
 
 <a href="https://drugs.3steps.cn/" target="_blank"><img src="./profile/assets/biomedgps.png"/></a>
 
 ### Knowledge Graph & Deep Learning Models
 
-If you are interested in constructing knowledge graph and deep learning models, please visit the [biomedgps-data](https://github.com/open-prophetdb/biomedgps-data) repository or the [website](https://open-prophetdb.github.io/biomedgps-data/).
+If you are interested in constructing knowledge graph and deep learning models, please visit the [biomedgps-data](https://github.com/open-prophetdb/biomedgps-data) repository or the [DocWebsite](https://open-prophetdb.github.io/biomedgps-data/).
 
 ### Labeling Tool
 
-If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/).
+If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/) to get started or the [prophet-studio](https://github.com/open-prophetdb/prophet-studio) repository to install the tool locally.
 
 <a href="https://prophet-studio.3steps.cn/" target="_blank"><img src="./profile/assets/labeling-tool.png"/></a>
 
