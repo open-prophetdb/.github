@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is interested in the following topics: construct and integrate knowledge graph, multi-omics data and deep learning models to find new drug targets and biomarkers, understand the molecular mechanisms of human diseases and toxicants, and develop novel therapeutic strategies. Visit our [website](https://prophetdb.org) for more information.
+Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is interested in the following topics: construct and integrate knowledge graph, multi-omics data and deep learning models to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing).  Visit our [official website](https://prophetdb.org) for more information.
 
 ## Useful Resources
 
 ### Network Medicine Platform
 
-If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases and toxicants, predict drug targets and biomarkers, and develop novel therapeutic strategies, please visit our [Network Medicine Platform](https://drugs.3steps.cn/) to get started or the [biomedgps](https://github.com/open-prophetdb/biomedgps) repository to install the platform locally.
+If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing). please visit our [Network Medicine Platform](https://drugs.3steps.cn/) to get started or the [biomedgps](https://github.com/open-prophetdb/biomedgps) repository to install the platform locally.
 
 <a href="https://drugs.3steps.cn/" target="_blank"><img src="./profile/assets/biomedgps.png"/></a>
 
