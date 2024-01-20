@@ -14,7 +14,7 @@ If you are interested in using knowledge graph and deep learning models to under
 
 If you are interested in constructing knowledge graph and deep learning models, please visit the [biomedgps-data](https://github.com/open-prophetdb/biomedgps-data) repository or the [DocWebsite](https://open-prophetdb.github.io/biomedgps-data/).
 
-### Labeling Tool
+### Labeling Tool for Biomedical Publications
 
 If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/) to get started or the [prophet-studio](https://github.com/open-prophetdb/prophet-studio) repository to install the tool locally.
 
