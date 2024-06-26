@@ -8,7 +8,7 @@ Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is int
 
 If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing). please visit our [Network Medicine Platform](https://drugs.3steps.cn/) to get started or the [biomedgps](https://github.com/open-prophetdb/biomedgps) repository to install the platform locally.
 
-<a href="https://drugs.3steps.cn/" target="_blank"><img src="./profile/assets/biomedgps.png"/></a>
+<a href="https://drugs.3steps.cn/" target="_blank"><img src="./assets/biomedgps.png"/></a>
 
 ### Knowledge Graph & Deep Learning Models
 
@@ -18,7 +18,7 @@ If you are interested in constructing knowledge graph and deep learning models, 
 
 If you want to join us to construct knowledge graph, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/) to get started or the [prophet-studio](https://github.com/open-prophetdb/prophet-studio) repository to install the tool locally.
 
-<a href="https://prophet-studio.3steps.cn/" target="_blank"><img src="./profile/assets/labeling-tool.png"/></a>
+<a href="https://prophet-studio.3steps.cn/" target="_blank"><img src="./assets/labeling-tool.png"/></a>
 
 <!--
 
