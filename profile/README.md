@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the OpenProphetDB! The OpenProphetDB is a research group which is interested in the following topics: construct and integrate knowledge graph, multi-omics data and deep learning models to understand the molecular mechanisms of human diseases or predict known drugs for new indications (Drug Repurposing).  Visit our [official website](https://prophetdb.org) for more information.
+Welcome to the OpenProphetDB! OpenProphetDB is an open research group focused on unlocking the potential of existing drugs to save patients with rare and complex diseases. We explore the following topics: constructing and integrating knowledge graph, multi-omics data, and deep learning models to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing.  Visit our [official website](https://prophetdb.org) for more information.
 
 ## Useful Resources
 
