@@ -4,21 +4,21 @@ Welcome to the OpenProphetDB! OpenProphetDB is an open research group focused on
 
 ## Network Medicine Platform for Drug Target & Drug Repurposing
 
-### 1. Explorer & Explainer
+### >>> Online Explorer & Explainer
 
 If you are interested in using knowledge graph and deep learning models to understand the molecular mechanisms of human rare and complex diseases, or to predict new indications for known drugs through drug repurposing. please visit our [Online Explorer & Explainer](https://drugs.3steps.cn/) to get started or the [biomedgps](https://github.com/open-prophetdb/biomedgps) repository to install the web platform locally.
 
 <a href="https://drugs.3steps.cn/" target="_blank"><img src="./assets/biomedgps.png"/></a>
 
-### 2. Building Your Own Knowledge Graph
+### >>> Building Your Own Knowledge Graph
 
 If you are interested in building your own knowledge graph, please visit the [biomedgps-data](https://github.com/open-prophetdb/biomedgps-data) repository or the [DocWebsite](https://open-prophetdb.github.io/biomedgps-data/).
 
-### 3. Training Your Own GNN Models
+### >>> Training Your Own GNN Models
 
 If you are interested in training deep learning models based on the knowledge graph, please visit the [biomedgps-model](https://github.com/open-prophetdb/biomedgps-model) repository or the [DocWebsite](https://open-prophetdb.github.io/biomedgps-model/).
 
-### 4. Semi-Auto Labeling Tool for Biomedical Publications
+### >>> Semi-Auto Labeling Tool for Biomedical Publications
 
 If you want to construct a personalized knowledge graph by labeling any publications, please visit our [Labeling Tool](https://prophet-studio.3steps.cn/) to get started or the [prophet-studio](https://github.com/open-prophetdb/prophet-studio) repository to install the tool locally.
 
